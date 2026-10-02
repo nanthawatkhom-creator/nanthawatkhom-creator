@@ -1,7 +1,7 @@
 <div align="center">
   <img src="header.svg" alt="Nanthawat KhomKhai — Game and Interactive Media" width="100%">
   <br>
-  <p><strong>Game &amp; Interactive Media student · Creative technologist · Learns by building</strong></p>
+  <p><strong>Game &amp; Interactive Media student · Creative technologist</strong></p>
   <p>สวัสดีครับ ผมเต้ สนุกกับการสร้างเกม เว็บ และประสบการณ์ดิจิทัลที่ทำให้คนอยากมีส่วนร่วม</p>
   <p>
     <a href="https://nanthawatkhom-creator.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20my%20website-f2c14e?style=for-the-badge&labelColor=17283e" alt="Portfolio"></a>
