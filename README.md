@@ -25,14 +25,6 @@ I’m **Nanthawat “Tae” KhomKhai**, a Game &amp; Interactive Media student a
 
 `TypeScript` · `React` · `Three.js` · `Unreal Engine` · `HTML` · `CSS` · `JavaScript`
 
-## 🚀 Featured work
-
-| Project | What it is | Link |
-| --- | --- | --- |
-| **The IT Support Hero** | An interactive game about solving IT support challenges | [GitHub](https://github.com/nanthawatkhom-creator/Game-The-IT-Support-Hero.github.io) |
-| **CaseLink G5** | A web concept for helping make case information easier to explore | [GitHub](https://github.com/nanthawatkhom-creator/CaselinkG5.github.io) |
-| **Little Dreamland** | A game made with a team for BU × VIVERSE Game Jam | [Portfolio](https://nanthawatkhom-creator.github.io/#work) |
-| **Portfolio 2026** | My journey, projects, and experiences | [Visit site](https://nanthawatkhom-creator.github.io/) |
 
 ## 🎯 What I’m working toward
 
