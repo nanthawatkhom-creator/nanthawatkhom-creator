@@ -41,4 +41,4 @@ Building stronger skills in game development and web technologies, sharing what 
 ## 📫 Find me
 
 - Portfolio: [nanthawatkhom-creator.github.io](https://nanthawatkhom-creator.github.io/)
-- Email: [nanthawat.khom@gmail.com](mailto:nanthawat.khom@gmail.com)
+- Email: [nanthawat.khom@gmail.com](mailto:nanthawatkhom@gmail.com)
